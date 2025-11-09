@@ -1,0 +1,17 @@
+BOD Task 9 — Reflection: Why is it bad to write each round without a loop?
+
+- First of all the code gets very long and heavy, because I have to repeat the same code for every round, this can create problems in the code.
+
+- If we want to change how the game works, we have to change it in many diffrent places and specific if the code should flow.
+
+- It is easy to make mistakes during copy or adding code but also pasting code for each round.
+
+- The game is harder to read and understand and the code look like a mix of jargong, because there is so much repeated code that looks compact and same.
+
+- If we want to play more rounds, the file just gets even longer and longer instead of more focosed.
+
+- Using a loop is much better and make the code readable, because I can write the code for one round only once and it can look 100 times to a winner is found.
+
+- A loop can run A round as many times as I want, this makes the code shorter and easier to read, understand, change and error handling is manged easy.
+
+- Hope this make sense.
